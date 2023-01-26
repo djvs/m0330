@@ -8,6 +8,8 @@ USB/QMK STM32F401RETx PCB for Apple M0330 (Alps) with multiple layout options, W
 
 # M0330 variant - WILL ONLY WORK WITH M0330 IIGS KEYBOARDS WITH THE ROTATED TOP ROW.  MAYBE.  NOT SUPPORTED
 
+Marginally more supported M0116/M0118 on which this one is based: https://github.com/djvs/m0330
+
 Bottom row supports:
 * AEK (1.5u 1.25u 1.5u 6.5u 1.5u 1.25u 1.5u)
 * M0116 (1u 1u 1.75u 1u 4.75u 1u 1u 1u 1u 1u)
