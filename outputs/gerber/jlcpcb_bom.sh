@@ -1,6 +1,6 @@
 #!/usr/bin/zsh
 #
-cp m0116.csv jlcpcb-bom.editing.csv
+cp m0330.csv jlcpcb-bom.editing.csv
 
 perl -pi -e "s/^[^;]*;\"LED.*//" jlcpcb-bom.editing.csv
 

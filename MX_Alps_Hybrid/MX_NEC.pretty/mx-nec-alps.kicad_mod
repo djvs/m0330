@@ -1,6 +1,6 @@
 (footprint "mx-nec-alps" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (property "Sheetfile" "m0116.kicad_sch")
+  (property "Sheetfile" "m0330.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
   (fp_text reference "SW_M_1" (at 0 3.175) (layer "Dwgs.User")

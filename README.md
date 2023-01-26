@@ -1,12 +1,12 @@
-# m0116
+# m0330
 
 ![Screenshot of PCB](screenshot.png)
 
-USB/QMK STM32F401RETx PCB for Apple IIGS (Alps) with multiple layout options, WS2812B addressable LED & buzzer support.  
+USB/QMK STM32F401RETx PCB for Apple M0330 (Alps) with multiple layout options, WS2812B addressable LED & buzzer support.  
 
 ## Released without warranty, use at your own risk.  HAS NOT BEEN TESTED OR PRINTED YET OR EVEN MEASURED THAT CAREFULLY.  THIS CONTROLLER SETUP IS EXPERIMENTAL.  Please confirm parts placement with JLC carefully.
 
-# IIGS variant - WILL ONLY WORK WITH IIGS KEYBOARDS WITH THE ROTATED TOP ROW
+# M0330 variant - WILL ONLY WORK WITH M0330 IIGS KEYBOARDS WITH THE ROTATED TOP ROW.  MAYBE.  NOT SUPPORTED
 
 Bottom row supports:
 * AEK (1.5u 1.25u 1.5u 6.5u 1.5u 1.25u 1.5u)

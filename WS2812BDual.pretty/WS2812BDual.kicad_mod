@@ -2,7 +2,7 @@
   (tedit 61777605)
   (descr "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
   (tags "LED RGB NeoPixel")
-  (property "Sheetfile" "m0116.kicad_sch")
+  (property "Sheetfile" "m0330.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
   (fp_text reference "LED1" (at 0 -3.5) (layer "F.SilkS")
