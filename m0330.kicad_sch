@@ -13081,7 +13081,7 @@
     (property "Value" "SW_Push" (at 48.895 113.03 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (at 63.5 112.395 0)
+    (property "Footprint" "controller:switch_K2-1187SQ-A4SW-06" (at 63.5 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 63.5 112.395 0)
